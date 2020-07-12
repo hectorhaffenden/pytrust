@@ -12,6 +12,10 @@ Package has two main components, scraping scripts, and analysis scripts
 2. Analysis - This includes all analysis, from removing stop words, NLP modelling, visualisations etc...
 
 
+## How to use
+1. Run the scraping scripts, to gather reviews data for X companies
+2. Run the analysis scripts to get insights
+
 
 ### Notes
 - You are able to collect data from multiple companies, then evaluate them together, or separately
@@ -38,6 +42,9 @@ I've learnt a lot from the following resources (mainly around NLP analysis)
 - Switch from functions to classes
 - Peer review structure
 - Create folders and text files required, if they don't exist, on local machines?
+- Move from notebook driven analysis to ... dashboard?
+- Get minimum package dependencies
+
 
 <b>Scraping</b>
 - Add ability to store data in SQLite
