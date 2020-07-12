@@ -2,7 +2,7 @@
 
 The python package to scrape, transform and analyse data from Trustpilot.
 
-- <b>This package is still in development</b>
+<b>This package is still in development</b>
 
 
 Package has two main components, scraping scripts, and analysis scripts
