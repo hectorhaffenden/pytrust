@@ -1,5 +1,5 @@
 # pytrust
-The python package to scrape, transform and analyse data from Trustpilot.
+<b>The python package to scrape, transform and analyse data from Trustpilot.</b>
 
 - The aim is to run NLP analysis that is generalisable to many tasks, especially reviews.
 
@@ -37,6 +37,7 @@ I've learnt a lot from the following resources (mainly around NLP analysis)
 - Move code to modules
 - Switch from functions to classes
 - Peer review structure
+- Create folders and text files required, if they don't exist, on local machines?
 
 <b>Scraping</b>
 - Add ability to store data in SQLite
