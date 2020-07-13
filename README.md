@@ -39,12 +39,12 @@ I've learnt a lot from the following resources (mainly around NLP analysis)
 ### Todo
 <b>General</b>
 - Move code to modules
-- Switch from functions to classes
+- Switch from functions to classes (OOP)
 - Peer review structure
 - Create folders and text files required, if they don't exist, on local machines?
 - Move from notebook driven analysis to ... dashboard?
 - Get minimum package dependencies
-
+- Split into 2 packages? One for analysing NLP, another for scraping from Trustpilot?
 
 <b>Scraping</b>
 - Add ability to store data in SQLite
