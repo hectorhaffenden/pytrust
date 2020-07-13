@@ -144,8 +144,6 @@ data/
 models/
 trust/
 submissions/
-input/
-clean_data/
 __pycache__
 .ipynb_checkpoints
 
