@@ -148,7 +148,6 @@ __pycache__
 .ipynb_checkpoints
 
 # data files
-*.csv
 *.h5
 *.pkl
 *.pth
